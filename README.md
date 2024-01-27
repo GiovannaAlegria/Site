@@ -24,6 +24,7 @@
         <p> Temos a tag "imput" que tem atributos específicos como o "type" que cria um campo do tipo texto e o "number" que cria um campo tipo número, para serem utilizados pelos usúarios.</p>
         <p> E a tag "img" serve para adicionar uma imagem via endereço, e pode ser alterado o tamanho da imagem com a tag "width"</p>
         <hr>
+       
         <h2 id="Tipografia"> Tipografia.</h2>
         <p> A tipografia se refere à apresentação do texto em uma página web, possibilando assim o controle da aparência do texto usanto tags e propriedades do CSS. Aqui estão algumas das maneiras de lidar com a tipografia no HTML:</p>
         <p><strong>Cabeçalhos</strong> (de 'h1' a 'h6'): são utilizados para definir a importância do texto. O 'h1' é mais importante, enquanto 'h6' é menos.</p>
@@ -40,9 +41,10 @@
 
             Outro atributo relevante é o 'title', que, em conjunto com os mencionados anteriormente, proporciona uma funcionalidade adicional. Quando o usuário passa o mouse sobre o link, um balão de instrução é exibido, oferecendo informações adicionais ou orientações.</p>
        <hr>  
+      
        <h2 id="Referencias"><strong> Referencias sobre o assunto.</strong></h2>
        <p> HTML: <a href="https://www.homehost.com.br/blog/tutoriais/o-que-e-html/" target="_blank">Outras fontes.</a></p>   
 
        <small><a href="#voltar">Voltar</a></small>
-        </bory>
+        </body>
 </html>
